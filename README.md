@@ -2,6 +2,7 @@
 # testpackage
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/gejak2004/testpackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gejak2004/testpackage/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of testpackage is to ...
