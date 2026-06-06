@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/gejak2004/testpackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gejak2004/testpackage/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/gejak2004/testpackage/graph/badge.svg)](https://app.codecov.io/gh/gejak2004/testpackage)
 <!-- badges: end -->
 
 The goal of testpackage is to ...
